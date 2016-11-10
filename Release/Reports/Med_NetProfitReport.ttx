@@ -1,0 +1,4 @@
+; Field definition file for table: ADORecordset
+Sr	number	1	
+Type	string	255	Stock Value	
+Amount	number	1034040.89502918	

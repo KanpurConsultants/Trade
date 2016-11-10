@@ -1,0 +1,14 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	D1 OPBAL 2013       1	
+V_SNo	number	1	
+RecId	string	255		
+V_Type	string	255	OPBAL	
+V_Date	datetime	31/Mar/2013 12:00:00 AM	
+Narration	string	255		
+PartyName	string	255	A.V. PHARMA (C)	
+CityName	string	255		
+BillAmt	number	48825	
+Receipt	number	0	
+Balance	number	48825	
+DueDate	datetime	31/Mar/2013 12:00:00 AM	
+OverDue	number		

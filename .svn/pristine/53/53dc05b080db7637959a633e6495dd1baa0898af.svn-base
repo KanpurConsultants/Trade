@@ -1,0 +1,50 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	M1    SO 2013    1019	
+V_Type	string	255	SO	
+V_Date	datetime	01/Feb/2014 12:00:00 AM	
+ReferenceNo	string	255	CUS1313	
+Currency	string	255	USD	
+DecimalPlaces	number	0	
+MeasureDecimalPlaces	number	4	
+PartyOrderNo	string	255	CUS1313	
+SaleToPartyName	string	255	Surya  Carpet  Inc, CALHOUN, GA-30701	
+PartyDeliveryDate	datetime	21/Mar/2014 12:00:00 AM	
+GrpField	string	255	STM802-914	
+GrpFieldDesc	string	255	STM802-914	
+GrpFieldHead	string	255	Item	
+PrnQtyField	number	1	
+PrnQtyFieldHead	string	255	Qty	
+PrnUnitField	string	255	Pcs	
+PrnDecimalPlaces	number	0	
+PrnQtyField2	string	255		
+PrnQtyFieldHead2	string	255		
+PrnUnitField2	string	255		
+PrnDecimalPlaces2	string	255		
+PartyOrderDate	datetime	01/Feb/2014 12:00:00 AM	
+Remarks	string	255	AIRFREGHT
+	
+LineRemark	string	255		
+V_Month	datetime	01/Feb/2014 12:00:00 AM	
+Sr	number	1	
+Item	string	255	D168562	
+Qty	number	1	
+Unit	string	255	Pcs	
+MeasurePerPcs	number	14	
+MeasureUnit	string	255	Sq.Yard	
+TotalMeasure	number	14	
+Rate	number	264.6	
+Amount	number	264.6	
+AmountTitle	string	255	Amount	
+Landed_Value	number	264.6	
+RateType	string	255		
+ItemDesc	string	255	STM802-914	
+VoucherTypeDesc	string	255	Sale Order	
+Item_Div_Name	string	255	TUFTED	
+QtyOrdFld	number	1	
+QtyCanFld	number	0	
+QtyAmdFld	number	0	
+QtyOrdFld2	number	0	
+QtyCanFld2	number	0	
+QtyAmdFld2	number	0	
+mGroupItemDivision	string	255		
+mGroupVoucherType	number	0	

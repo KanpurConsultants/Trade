@@ -1,0 +1,18 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1    SI 2013      32	
+V_Type	string	255	SI	
+V_Date	datetime	17/Apr/2013 12:00:00 AM	
+ReferenceNo	string	255	LS-00001	
+SaleToPartyName	string	255	SANJAY MEDICAL STORE {HILIOLI}	
+SaleToParty	string	255	D100000107	
+Sr	number	1	
+Item	string	255	D10002	
+Qty	number	250	
+Unit	string	255	STRI	
+Rate	number	30	
+Amount	number	7500	
+SaleValue	number	7500	
+ItemDesc	string	255	ALBA BOLUS STP	
+PurchaseValue	number	2400	
+Profit	number	5100	
+ProfitPer	number	212.5	

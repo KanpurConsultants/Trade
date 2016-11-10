@@ -1,0 +1,35 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1  TINV 2013      52	
+V_Type	string	255	TINV	
+V_Date	datetime	01/Apr/2013 12:00:00 AM	
+ReferenceNo	string	255	LT-00001	
+SaleToPartyName	string	255	Durga Dawa Ghar, Kanpur	
+GroupOn	string	255	KANPUR {KANPUR}	
+GroupOnDesc	string	255	KANPUR {KANPUR},Kanpur	
+GroupOnHead	string	255	Agent Name	
+InvoiceUnit1	number	12000	
+Unit1Head	string	255	Amount	
+Unit1	string	255	INR	
+Unit1DecimalPlace	number	2	
+Unit1Type	string	255	Currency	
+InvoiceUnit2	string	255		
+Unit2Head	string	255		
+Unit2	string	255		
+Unit2DecimalPlace	string	255		
+Unit2Type	string	255		
+InvoiceUnit3	string	255		
+Unit3Head	string	255		
+Unit3	string	255		
+Unit3DecimalPlace	string	255		
+Unit3Type	string	255		
+Rate	number	30	
+SaleChallanSr	number	1	
+Amount	number	12000	
+AmountTitle	string	255	Amount	
+NetAmtRate	number	30	
+ItemDesc	string	255	ALBA BOLUS STP	
+VoucherTypeDesc	string	255	Tax Invoice	
+ChallanNo	string	255	TINV- LT-00001	
+H_Remarks	string	255		
+LineRemarks	string	255		
+Item_Div_Name	string	255	Main	

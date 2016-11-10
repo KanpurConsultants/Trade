@@ -1,0 +1,13 @@
+; Field definition file for table: ADORecordset
+GrpField	string	255	13/10	
+GrpFieldDesc	string	255	Oct-13	
+GrpFieldHead	string	255	Month	
+DocID	string	255	D1    SI 2013      15	
+V_Date	datetime	02/Oct/2013 12:00:00 AM	
+SaleToPartyName	string	255	SANTUSTI NURSING HOME AJMOLLA CHAURHA BHADOHI,	
+AgentName	string	255		
+ReferenceNo	string	255	13-0001	
+ItemDesc	string	255	FEMITOSH SYP	
+Net_Amount	number		
+Qty	number	40	
+Unit	string	255	200ML	

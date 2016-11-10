@@ -1,0 +1,8 @@
+[Server]
+Name=satyam-pc
+[CompanyInfo]
+Path=CRESCENT
+[Backup]
+BackupPath=d:\
+[Security]
+Password=

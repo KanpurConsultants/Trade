@@ -1,0 +1,23 @@
+; Field definition file for table: ADORecordset
+Code	string	255	D10013	
+Description	string	255	ACEBURG SYP	
+LotNo	string	255		
+Bal.Qty	number	1	
+Unit	string	255	1	
+StockInNo	string	255	PINV-15-0527	
+Purchase_Date	datetime	04/Jul/2015 12:00:00 AM	
+Sale_Rate	number	29.87	
+MRP	number	40	
+ExpiryDate	datetime	01/Mar/2017 12:00:00 AM	
+ManualCode	string	255	ACEBURG SYP	
+SalesTaxPostingGroup	string	255	General	
+MeasureUnit	string	255	1	
+MeasurePerPcs	number	0	
+Vendor	string	255	AGRAWAL MEDICAL AGE,GOPIGANJ, {6}	
+QtyDecimalPlaces	number	1	
+MeasureDecimalPlaces	number	1	
+BillingType	string	255		
+StockInDocID	string	255	D1  PINV 2015     528	
+StockInDocIDSr	number	5	
+PurchaseRate	number	28.1816666666667	
+StockAmount	number	28.1816666666667	

@@ -1,0 +1,13 @@
+; Field definition file for table: ADORecordset
+GrpField	string	255		
+GrpFieldDesc	string	255		
+GrpFieldHead	string	255		
+DocId	string	255	D1  PINV 2013     133	
+Qty	number	50	
+Unit	string	255	JAR	
+Net_Amount	number	7900	
+ItemDesc	string	255	CRICAL 5LTR 1	
+V_Date	datetime	30/Apr/2013 12:00:00 AM	
+ReferenceNo	string	255	13-0001	
+VendorName	string	255	CRESCENT BIOFORMULATIONS PVT.LKANPUR,Kanpur	
+Remark	string	255		

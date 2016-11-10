@@ -1,0 +1,40 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1 SCHLN 2013       3	
+V_Type	string	255	SCHLN	
+V_Date	datetime	01/Apr/2013 12:00:00 AM	
+ReferenceNo	string	255	13-0002	
+SaleToPartyName	string	255	DR PRABHAT KUMAR, , BHADOHI	
+AgentName	string	255		
+Currency	string	255		
+Sr	number	1	
+SaleChallan	string	255	D1 SCHLN 2013       3	
+Item	string	255	D10065	
+Qty	number	1	
+Unit	string	255	1	
+QtyDecimalplace	number	1	
+MeasureDecimalplace	number	1	
+MeasurePerPcs	number	0	
+MeasureUnit	string	255	1	
+TotalMeasure	number	0	
+GrpField	string	255		
+GrpFieldDesc	string	255		
+GrpFieldHead	string	255		
+PrnQtyField	number	15	
+PrnQtyFieldHead	string	255	Amount	
+PrnUnitField	string	255		
+PrnDecimalPlaces	number	2	
+PrnQtyField2	string	255		
+PrnQtyFieldHead2	string	255		
+PrnUnitField2	string	255		
+PrnDecimalPlaces2	string	255		
+Rate	number	15	
+SaleChallanSr	number	1	
+Amount	number	15	
+AmountTitle	string	255	Amount	
+NetAmtRate	number	15	
+ItemDesc	string	255	ALKACITRAL SYP 100ML	
+VoucherTypeDesc	string	255	Sale Challan	
+ChallanNo	string	255	SCHLN- 13-0002	
+H_Remarks	string	255		
+LineRemarks	string	255		
+Item_Div_Name	string	255	Main	

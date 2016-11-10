@@ -1,0 +1,29 @@
+; Field definition file for table: ADORecordset
+Serial	number	3	
+GroupSr	number	2	
+Title	string	255	Purchase in Commission Account	
+DocId	string	255		
+Sr	number		
+V_Type	string	255		
+V_Date	datetime		
+SubCode	string	255		
+TINNo	string	255		
+RecId	string	255		
+Item	string	255		
+Qty	number		
+Unit	string	255		
+Sales_Tax_Taxable_Amt	number		
+Sales_Tax_Per	number		
+Sales_Tax	number		
+Additional_Sales_Tax_Per	number		
+Additional_Sales_Tax	number		
+Net_Amount	number		
+PartyName	string	255		
+VatCommodityCode	string	255		
+VatCommodityManualCode	string	255		
+TotalAmount	number		
+SubTitle	string	255	List of Purchases Return	
+IsReturn	number	1	
+FormNo	string	255		
+AssessmentYear	string	255	2013-2014	
+TaxPeriodEndDate	string	255	01/Mar/2014	

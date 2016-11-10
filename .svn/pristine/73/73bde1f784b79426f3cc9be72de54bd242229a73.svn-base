@@ -1,0 +1,28 @@
+; Field definition file for table: ADORecordset
+Serial	number	1	
+Title	string	255	Sale in Own Account	
+DocId	string	255	D1    SI 2013      33	
+Sr	number	1	
+V_Type	string	255	SI	
+V_Date	datetime	17/Apr/2013 12:00:00 AM	
+SubCode	string	255	D100000096	
+TINNo	string	255	09621801103	
+RecId	string	255	LS-00002	
+Item	string	255	D10016	
+Qty	number	180	
+Unit	string	255	JAR	
+Sales_Tax_Taxable_Amt	number	58500	
+Sales_Tax_Per	number	0	
+Sales_Tax	number	0	
+Additional_Sales_Tax_Per	number	0	
+Additional_Sales_Tax	number	0	
+Net_Amount	number	58500	
+PartyName	string	255	NATIONAL DRUG AGENCIES	
+VatCommodityCode	string	255	01004005	
+VatCommodityManualCode	string	255	01004005	
+TotalAmount	number	58500	
+SubTitle	string	255	List of Sale made against tax invoice	
+IsReturn	number	0	
+FormNo	string	255		
+AssessmentYear	string	255	2013-2014	
+TaxPeriodEndDate	string	255	30/Apr/2013	

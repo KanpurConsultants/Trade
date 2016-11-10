@@ -1,0 +1,33 @@
+; Field definition file for table: ADORecordset
+GrpField	string	255		
+GrpFieldDesc	string	255		
+GrpFieldHead	string	255		
+DocID	string	255	D1  PINV 2013     155	
+V_Type	string	255	PINV	
+V_Date	datetime	08/Apr/2013 12:00:00 AM	
+VendorDocNo	string	255	046	
+ReferenceNo	string	255	13-0022	
+VendorName	string	255	ALTAR SRI LABS PVT.LTD., ROORKEE	
+Sr	number	1	
+PurchChallan	string	255	D1  PINV 2013     155	
+Item	string	255	D10057	
+Qty	number	1007	
+Unit	string	255	BOX	
+QtyDecimalplace	number	0	
+MeasurePerPcs	number	0	
+MeasureUnit	string	255	BOX	
+TotalMeasure	number	1007	
+Caption_Dimension1	string	255		
+Caption_Dimension2	string	255		
+D1Desc	string	255		
+D2Desc	string	255		
+Rate	number	67.5	
+PurchChallanSr	number	1	
+Amount	number		
+AmountTitle	string	255	Vat	
+NetAmtRate	number	0	
+ItemDesc	string	255	MONOFLOX BOLUS 2*5	
+VoucherTypeDesc	string	255	Purchase Invoice	
+ChallanNo	string	255	PINV- 13-0022	
+H_Remarks	string	255		
+L_Remarks	string	255		

@@ -1,0 +1,13 @@
+; Field definition file for table: ADORecordset
+GrpField	string	255		
+GrpFieldDesc	string	255		
+GrpFieldHead	string	255		
+DocID	string	255	D1 SCHLN 2013       3	
+V_Date	datetime	01/Apr/2013 12:00:00 AM	
+SaleToPartyName	string	255	DR PRABHAT KUMAR, , BHADOHI,	
+AgentName	string	255		
+ReferenceNo	string	255	13-0002	
+ItemDesc	string	255	LIV UP TAB	
+Net_Amount	number	14	
+Qty	number	1	
+Unit	string	255	100	

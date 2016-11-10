@@ -1,0 +1,3 @@
+UPDATE dbo.Voucher_Type_Settings
+SET TransactionHistory_SqlQuery = 'SELECT TOP 5 L.Item,  H.V_Date AS [Purch_Date], Sg.DispName As Vendor, L.Rate, L.Discount_Pre_Tax_Per as Dis_Per, L.Deal, L.Qty, L.Mrp, L.Sale_Rate, Round(L.Landed_Value/L.Qty,3) as Landed_Value  FROM PurchInvoiceDetail L   LEFT JOIN  PurchInvoice H ON L.DocId = H.DocId  LEFT JOIN SubGroup Sg ON H.Vendor = Sg.SubCode  Where L.Item = `<ITEMCODE>`  And H.DocId <> `<SEARCHCODE>` ORDER BY H.V_Date DESC'
+WHERE V_Type IN ('PINV','ESTMT')  

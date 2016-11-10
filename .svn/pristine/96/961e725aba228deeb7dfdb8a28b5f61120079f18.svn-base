@@ -1,0 +1,6 @@
+; Field definition file for table: ADORecordset
+ReferenceDocID	string	255	D1 OPSTK 2013     772	
+ReferenceDocIDSr	number	1	
+ItemDesc	string	255	DUOCENT 4.5GM 1	
+StockQty	number	2	
+ExpiryDate	datetime	01/Jun/2013 12:00:00 AM	
